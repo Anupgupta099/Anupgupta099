@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1b2a,100:00ffff&height=220&section=header&text=ANUP_GUPTA &fontSize=55&fontColor=00FFFF&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1b2a,100:00ffff&height=220&section=header&text=ANUP_GUPTA&fontSize=55&fontColor=00FFFF&animation=fadeIn&fontAlignY=38"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=800&lines=Electronics+%C3%97+AI+%C3%97+VLSI+%C3%97+IIoT;B.Tech+VLSI+Student;AI%2FML+Enthusiast;Building+Intelligent+Systems;Code+%7C+Build+%7C+Innovate"/>
 
