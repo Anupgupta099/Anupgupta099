@@ -230,7 +230,7 @@ IoT-based environmental monitoring project.
 ║             MAKE IT MATTER.                         ║
 ║                                                      ║
 ║             > SYSTEM: ONLINE                        ║
-║             > ANUP_GUPTA.exe                        ║
+║             > ANUP_GUPTA                       ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 ```
